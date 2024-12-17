@@ -1,17 +1,13 @@
 ---
 layout: default
-description: I'm Elena (Lena) Voita and I work on Natural Language Processing. More details inside!
+description: I'm Amandeep Kaur and I work on Computer Vision/Remote Sensing. More details inside!
 ---
 
 ![i_am_a_fox](./img/people/aman.jpeg){: style="float: right; margin: 0px 20px; width: 250px; border-radius: 50%" name="fox"}
 
+I am Amandeep Kaur (Reehal), a PhD student at [ASU](https://www.asu.edu/), advised by [Dr. Hannah Kerner](https://hannah-rae.github.io/). Currently, i'm interested in studying the impacts of data distribution of large volumes of pretraining data used in Foundational models, specifically GeoFoundational models.
 
-<!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
-<img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
-
-
-I am Elena (Lena) Voita, a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on Analysis and Interpetability for NLP. 
-
+Previously, at Google Deepmind, I was working on AMED(Agricultural Monitoring and Event Detection), making ML/DL models to generate pan-India crop covers for top-10 Indian crops using Sentinel1-2, under the guidance of [Alok Talekar](https://research.google/people/106902/?&type=google) and [Dr. Gaurav Aggarwal](https://scholar.google.com/citations?user=9XiIwDQAAAAJ&hl=en)
 Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>](https://lena-voita.github.io/nlp_course.html) creator and current [SIGREP](https://www.sigrep.org) president.
 <!--* a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on NLP,* current [SIGREP](https://www.sigrep.org) president,* NLP Course <span style="color:#92bf32">For You</span> creator - look [here](https://lena-voita.github.io/nlp_course.html).-->
 
