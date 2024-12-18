@@ -3,8 +3,8 @@ exclude: [README.md,example1.md,example2.md]
 title: Amandeep Kaur
 email: akaurreehal@gmail.com
 github: amandeepkaurre
-# twitter: lena_voita
-# scholar_id: EcN9o7kAAAAJ
+twitter: A_man_deep_kaur
+scholar_id: GWZbxhAAAAAJ
 description: > # this symbol means ignore newlines until "baseurl:"
     Hi! I'm Amandeep and here you will find what I do.
 baseurl: "" # keep blank unless you're using sub-paths
