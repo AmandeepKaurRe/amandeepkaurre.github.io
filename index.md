@@ -9,7 +9,9 @@ I am Amandeep Kaur (Reehal), a PhD student at [ASU](https://www.asu.edu/), advis
 
 Previously, as part of Google Deepmind, I was working on AMED(Agricultural Monitoring and Event Detection), creating ML/DL models to generate pan-India crop covers 
 for top-10 Indian crops using Sentinel1-2, under the guidance of [Alok Talekar](https://research.google/people/106902/?&type=google) and 
-[Dr. Gaurav Aggarwal](https://scholar.google.com/citations?user=9XiIwDQAAAAJ&hl=en). Before Google, I was at IIIT-D,
+[Dr. Gaurav Aggarwal](https://scholar.google.com/citations?user=9XiIwDQAAAAJ&hl=en). 
+
+Before Google, I was at IIIT-D,
 pursuing my Bachelor's in CSE where I first got into research. I had the pleasure of working with [Dr Rahul Purandare](https://scholar.google.com/citations?user=_OLz-J0AAAAJ&hl=en) 
 in the summer of my 2nd year. Then under the guidance of [Dr. Jainendra Shukla](https://scholar.google.es/citations?user=QCZleNQAAAAJ&hl=en), I did an independent project where 
 I created a system to collect audio speech samples from Indian students for our project on improving English pronunciation of Indian students. As part of my Bachelor's Thesis, 
