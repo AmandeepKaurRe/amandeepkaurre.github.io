@@ -37,8 +37,7 @@ __2021__
 * <span style="color:#7fa827">AI for Social Good:</span> Began my two-semester Bachelor's thesis, worked on assistive typing technology which used head gestures. Met transformers for the first time.
 
 __2020__
-* <span style="color:#7fa827">AI for Social Good:</span> Woked with the [Human Machine Interaction Lab, IIITD](https://hmi.iiitd.edu.in/) to build a system to help improve Indian students english pronunciations. Learnt 
-Ask my about phonemes, utterances and speech in kids. 
+* <span style="color:#7fa827">AI for Social Good:</span> Woked with the [Human Machine Interaction Lab, IIITD](https://hmi.iiitd.edu.in/) to build a system to help improve Indian students english pronunciations. Ask me about phonemes, utterances and speech in kids. 
 
 __2019__
 * <span style="color:#7fa827">First:</span> Research experience as part of a software development intern in the [Program analysis Group, IIITD](https://pag.iiitd.edu.in/). :D
