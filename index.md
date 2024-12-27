@@ -29,8 +29,8 @@ __2023__
 * <span style="color:#7fa827">First:</span> [Oral] at AGU'23. Spoke about detecting field level crop seasons. 
 
 __2022__
-* <span style="color:#7fa827">First:</span> Job at Google Deepmind. (previously, Google Research India). Worked with Anthrokrishi to study Indian farm fields using satellites. My google maps is always set to satellite view.
-* <span style="color:#7fa827">First:</span> Gave a [talk](https://www.youtube.com/watch?v=lCFbbOgsm9I&t=1613s) presenting Anthrokrishi's work at Google for India(G4I)'2022.
+* <span style="color:#7fa827">First:</span> Job at Google Deepmind(previously, Google Research India). Worked with Anthrokrishi to study Indian farm fields using satellites. My google maps is always set to satellite view XD
+* <span style="color:#7fa827">First:</span> Gave a [talk](https://www.youtube.com/watch?v=lCFbbOgsm9I&t=1613s) presenting Anthrokrishi's work at Google for India(G4I'22).
 
 __2021__
 * <span style="color:#7fa827">First:</span> Interned at Royal Bank of Scotland(Natwest Group) as a software development intern. Did a lot of Java. 
